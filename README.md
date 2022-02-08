@@ -1,4 +1,4 @@
-# SWAT-MODFLOW model with PEST
+# SWAT-MODFLOW model with PEST 2022
 
 ## Get data and jupyter notebooks
 You essentially have 2 options:
